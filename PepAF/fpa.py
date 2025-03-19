@@ -343,7 +343,7 @@ class PMHC_Prediction(FPATask):
                  esm_path='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/mhc/esm',
                  coord_json='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/mhc/coordinates_af2.json',
                  epitope_path=None,
-                 pep_path='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/pep_seq_smiles.json',
+                 pep_path='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/pep/pep_seq_smiles.json',
                  rec_path='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/mhc/mhc_seq.json',
                  ids_json='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/pep/ids.json',
                  pep_esm='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/pep/esm_pep',
