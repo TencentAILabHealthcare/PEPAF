@@ -339,7 +339,7 @@ class PDBBind_Prediction(FPATask):
                          onthefly=onthefly)
 
 class PMHC_Prediction(FPATask):
-    def __init__(self, data_path='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/filtered_merged_file.tsv',
+    def __init__(self, data_path='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/test_data.tsv',
                  esm_path='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/mhc/esm',
                  coord_json='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/mhc/coordinates_af2.json',
                  epitope_path=None,
