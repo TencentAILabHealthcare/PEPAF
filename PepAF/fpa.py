@@ -339,14 +339,14 @@ class PDBBind_Prediction(FPATask):
                          onthefly=onthefly)
 
 class PMHC_Prediction(FPATask):
-    def __init__(self, data_path='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/test_data.tsv',
-                 esm_path='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/mhc/esm',
-                 coord_json='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/mhc/coordinates_af2.json',
+    def __init__(self, data_path='./pmhc_data/test_data.tsv',
+                 esm_path='./pmhc_data/mhc/esm',
+                 coord_json='./pmhc_data/mhc/coordinates_af2.json',
                  epitope_path=None,
-                 pep_path='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/pep/pep_seq_smiles.json',
-                 rec_path='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/mhc/mhc_seq.json',
-                 ids_json='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/pep/ids.json',
-                 pep_esm='/owenbhe/buddy1/tylerlv/private/code/PepAF/PepAF/pmhc_data/pep/esm_pep',
+                 pep_path='./pmhc_data/pep/pep_seq_smiles.json',
+                 rec_path='./pmhc_data/mhc/mhc_seq.json',
+                 ids_json='./pmhc_data/pep/ids.json',
+                 pep_esm='./pmhc_data/pep/esm_pep',
                  num_pos_emb=16, num_rbf=16,
                  contact_cutoff=8.0,
                  split_method='test',
