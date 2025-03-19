@@ -39,7 +39,7 @@ PepAF is a deep learning framework for protein-peptide affinity prediction, anti
 
 5. **Download Model Weights**:
 
-   Download the `model_weights.zip` file and extract it to the `PepAF/model_weights` directory. The model_weights.zip is available on Zenodo:
+   Download the `model_weights.zip` file and extract it to the `PepAF/model_weights` directory. The model_weights.zip is available on Zenodo: <https://doi.org/10.5281/zenodo.14500068>
 
    After extraction, the `PepAF/model_weights` directory should contain the following:
 
@@ -53,7 +53,7 @@ PepAF is a deep learning framework for protein-peptide affinity prediction, anti
 
 6. **Download PDBBind Data**:
 
-   Download the `pdbbind_data.zip` file and extract it to the `PepAF/PepAF` directory, specifically to `PepAF/PepAF/pdbbind_data`. The pdbbind_data.zip is available on Zenodo:
+   Download the `pdbbind_data.zip` file and extract it to the `PepAF/PepAF` directory, specifically to `PepAF/PepAF/pdbbind_data`. The pdbbind_data.zip is available on Zenodo: <https://doi.org/10.5281/zenodo.14500068>
 
    After extraction, the `PepAF/PepAF/pdbbind_data` directory should contain the following:
 
@@ -66,7 +66,7 @@ PepAF is a deep learning framework for protein-peptide affinity prediction, anti
 
 7. **Download Antigen-HLA Data**:
 
-   Download the `pmhc_data.zip` file and extract it to the `PepAF/PepAF` directory, specifically to `PepAF/PepAF/pmhc_data`. The pmhc_data.zip is available on Zenodo:
+   Download the `pmhc_data.zip` file and extract it to the `PepAF/PepAF` directory, specifically to `PepAF/PepAF/pmhc_data`. The pmhc_data.zip is available on Zenodo: <https://doi.org/10.5281/zenodo.14500068>
 
    After extraction, the `PepAF/PepAF/pmhc_data` directory should contain the following:
 
@@ -79,7 +79,7 @@ PepAF is a deep learning framework for protein-peptide affinity prediction, anti
   
 8. **Download Receptor Data**:
 
-   Download the `receptor_data.zip` file and extract it to the `PepAF/PepAF` directory, specifically to `PepAF/PepAF/receptor_data`. The receptor_data.zip is available on Zenodo:
+   Download the `receptor_data.zip` file and extract it to the `PepAF/PepAF` directory, specifically to `PepAF/PepAF/receptor_data`. The receptor_data.zip is available on Zenodo: <https://doi.org/10.5281/zenodo.14500068>
 
    After extraction, the `PepAF/PepAF/receptor_data` directory should contain the following:
 
